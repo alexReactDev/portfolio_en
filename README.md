@@ -37,7 +37,7 @@ __About project:__ MarketSupply is a multipurpose online market where you can bu
 
 __Description:__ Corporative landing
 
-__Deployed project:__ http://creative-digital-agency.alexander-portfolio-and-cv.com
+__Deployed project:__ http://creative.alexander-portfolio-and-cv.com
 
 __Source code:__ https://github.com/alexReactDev/creative-digital-agency
 
